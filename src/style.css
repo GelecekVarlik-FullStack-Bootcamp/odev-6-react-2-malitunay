@@ -1,0 +1,142 @@
+.container{
+    width: 600px;
+    min-height: 500px;
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 5px;
+}
+
+.btn-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.btn{
+    color:white;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    margin-right: 5px;
+    border-radius: 3px;
+    height: 25px;
+}
+
+.add-todo-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.add-todo-div input{
+    width: 35%;
+    margin-right: 3px;
+    height: 30px;
+}
+
+.add-todo-div select{
+    width: 20%;
+    margin-right: 3px;
+}
+
+.add-todo-div button{
+    width: 10%;
+    color:white;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+
+.todo-ul{
+    margin: 10px 0;
+    padding: 0 31px 2px 26px;
+}
+
+.todo-item{
+    list-style: none;
+    border: 1px solid grey;   
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.add-cat-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.add-cat-div input{
+    width: 60%;
+    margin-right: 3px;
+    height: 30px;
+}
+
+.add-cat-div button{
+    width: 10%;
+    color:white;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    border-radius: 3px;
+}
+
+.modal{
+    width: 600px;
+    min-height: 300px;
+    background-color: white;
+    position: absolute;
+    top: 250px;
+    margin: auto;
+    z-index: 999;
+    border-radius: 5px;
+    border: 1px solid grey;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+.modal-header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.modal-header h3{
+    padding: 10px 20px;
+    margin: 0;
+}
+
+.modal-header h3:nth-child(2){
+    cursor: pointer;
+}
+
+.add-status-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.add-status-div input{
+    width: 35%;
+    height: 30px;
+    margin-right: 3px;
+}
+
+.add-status-div button{
+    width: 10%;
+    color:white;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    border-radius: 3px;
+}
+
+.upd-Cat{
+    display: flex;
+    justify-content: space-between;
+    width: 100% !important;
+}
+
+.upd-Cat input{
+    width: 50% !important;
+}
