@@ -140,3 +140,19 @@
 .upd-Cat input{
     width: 50% !important;
 }
+
+.login{
+    width: 500px;
+    justify-content: center;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-lgn{
+    color:white;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    border-radius: 3px;
+    height: 25px;
+}

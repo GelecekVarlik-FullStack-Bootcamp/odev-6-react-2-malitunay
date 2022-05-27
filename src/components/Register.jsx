@@ -22,11 +22,11 @@ export default function Register({ setRegister, setUser }) {
     }
 
     return (
-        <div className='add-todo-div'>
+        <div className='login'>
             <input placeholder='Username' onChange={(e) => { setUsername(e.target.value) }} value={username} required />
             <input placeholder='Password' onChange={(e) => { setPassword(e.target.value) }} value={password} required />
             <input placeholder='Password Confirm' onChange={(e) => { setPasswordConfirm(e.target.value) }} value={passwordConfirm} required />
-            <button onClick={() => handleRegister()} >Register</button>
+            <button className='btn-lgn' onClick={() => handleRegister()} >Register</button>
         </div>
     )
 }

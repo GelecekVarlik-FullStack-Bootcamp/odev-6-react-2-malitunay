@@ -17,11 +17,11 @@ export default function Login({setRegister,setUser}) {
     }
 
     return (
-        <div className='add-todo-div'>
+        <div className='login'>
             <input placeholder='Username' onChange={(e) => { setUsername(e.target.value) }} value={username} />
             <input placeholder='Password' onChange={(e) => { setPassword(e.target.value) }} value={password} />
-            <button onClick={() => handleLogin()} >Login</button>
-            <button onClick={()=>setRegister(true)}>Register</button>
+            <button className='btn-lgn' onClick={() => handleLogin()} >Login</button>
+            <button className='btn-lgn' onClick={()=>setRegister(true)}>Register</button>
         </div>
     )
 }
