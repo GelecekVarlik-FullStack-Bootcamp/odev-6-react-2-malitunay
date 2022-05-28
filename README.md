@@ -32,7 +32,7 @@ Statü ekleme işlemi de aynı modal üzerinden yapılmaktadır.
 
 ![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-6-react-2-malitunay/blob/main/img/editcategoty.png)
 
-
+![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-6-react-2-malitunay/blob/main/img/statu.png)
 
 ### Author
 
