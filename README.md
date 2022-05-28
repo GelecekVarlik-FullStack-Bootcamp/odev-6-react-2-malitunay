@@ -1,13 +1,19 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+## Week - 6
 
-# Homework 
-```Ödev```
+## Homework 
+To Do App
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+Kategori eklenir
+Kategoriyelere statüler eklenir
+
+
+
+1. To Do Listesi
+
+![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-6-react-2-malitunay/blob/main/img/category.png)
 
 
 ## Author
