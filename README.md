@@ -30,6 +30,10 @@ Kategori adı girilerek kategori oluşturulur. Kategori düzenlemek için "Updat
 Kategori satırında bulunan "See Status" butonuna tıklanarak seçilen kategori altındaki statüler görülebilir, güncellenebilir ve silinebilir.
 Statü ekleme işlemi de aynı modal üzerinden yapılmaktadır.
 
+![](https://github.com/GelecekVarlik-FullStack-Bootcamp/odev-6-react-2-malitunay/blob/main/img/editcategoty.png)
+
+
+
 ### Author
 
 Mehmet Ali TUNAY
