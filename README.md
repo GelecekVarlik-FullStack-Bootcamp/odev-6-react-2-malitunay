@@ -33,6 +33,8 @@ Kategori adı girilerek kategori oluşturulur. Kategori düzenlemek için "Updat
 5. Statü
 
 Kategori satırında bulunan "See Status" butonuna tıklanarak seçilen kategori altındaki statüler görülebilir, güncellenebilir ve silinebilir.
+Statü ekleme işlemi de aynı modal üzerinden yapılmaktadır.
+
 ## Author
 
-```Ödevi yapan```
+Mehmet Ali TUNAY
